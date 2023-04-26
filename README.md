@@ -11,7 +11,7 @@ I'm a backend developer and huge fan of Java and Clean code.
 
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasAlv&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JonasAlv&show_icons=true&theme=transparent)](https://github.com/JonasAlv/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasAlv&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JonasAlv&show_icons=true&theme=transparent)](https://github.com/JonasAlv/github-readme-stats)
 
 ### 📫 Reach me
 
