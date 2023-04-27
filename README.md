@@ -1,6 +1,6 @@
 
 
-### 😃 Hi, I'm Jonas Alves
+### 🤓 Hello, I'm Jonas Alves
 I'm a backend developer and huge fan of Java and Clean code.
 - Currently learning Spring|Spring boot to work together with my Java skills.
 - Free to collaborate on any projects. 
